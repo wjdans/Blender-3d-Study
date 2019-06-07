@@ -1,8 +1,7 @@
-[< back to Home](README.md)
+[< back to home](README.md)
 
 關於本手冊
 ===
-{%hackmd BkVfcTxlQ %}
 由於FB廣告氾濫(私人恩怨 :smile: )，且社團的主題標籤一次只能閱覽一種，
 之後會試圖把一些資訊搬來這裡充實本手冊，一方面是**為了自己方便尋找資料**，整理的過程中也許也能幫上一些需要的使用者。
 
