@@ -8,7 +8,7 @@ Blender 2.8 學習手冊
 新手看這裡
 ---
 - [安裝 install]
-- [柚桑：新手導覽 intro for newbie]
+- [柚桑：新手導覽 intro for newbie](newbie.md)
 
 資源庫
 ---
