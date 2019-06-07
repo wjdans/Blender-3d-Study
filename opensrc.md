@@ -32,6 +32,6 @@
 
 - [Olive](https://www.olivevideoeditor.org/download.php) 影像剪輯 - Premiere/VEGAS
 - [Tooll](http://www.tooll.io/) MG動態設計
-{%youtube B-GU4I5Xv_g %}
+[![Alt text for your video](http://img.youtube.com/vi/B-GU4I5Xv_g/0.jpg)](http://www.youtube.com/watch?v=B-GU4I5Xv_g)
 
 - [Peertube](https://peertube.slat.org/) youtube的替代方案by 軟體自由協會
