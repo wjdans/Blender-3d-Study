@@ -28,9 +28,7 @@
 [![Alt text for your video](http://img.youtube.com/vi/SQj9bMVIUWA/0.jpg)](http://www.youtube.com/watch?v=SQj9bMVIUWA)
 
 #### NPR Toon & Cell Shading
-[![Alt text for your video](http://img.youtube.com/vi/PmRqoZVZr6M/0.jpg)](http://www.youtube.com/watch?v=PmRqoZVZr6M)
-{%youtube 19yXM13sw6A %}
+[![Alt text for your video](http://img.youtube.com/vi/19yXM13sw6A/0.jpg)](http://www.youtube.com/watch?v=19yXM13sw6A)
 
 #### Chipped Paint Effect with EEVEE by Chipp Walters
-[![Alt text for your video](http://img.youtube.com/vi/PmRqoZVZr6M/0.jpg)](http://www.youtube.com/watch?v=PmRqoZVZr6M)
-{%youtube 8G9Mbl-1_nU %}
+[![Alt text for your video](http://img.youtube.com/vi/8G9Mbl-1_nU/0.jpg)](http://www.youtube.com/watch?v=8G9Mbl-1_nU)
