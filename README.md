@@ -3,11 +3,11 @@ Blender 2.8 學習手冊
 
 - [關於本手冊 About](about.md)
 - [開源軟體 OpenSource Softwares](opensrc.md)
-- [Blender News]
+- [Blender Showreel](showreel.md)
 
 新手看這裡
 ---
-- [安裝 install]
+- [安裝 install](b3dinstall.md)
 - [柚桑：新手導覽 intro for newbie](newbie.md)
 
 資源庫
