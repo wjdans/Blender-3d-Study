@@ -1,7 +1,7 @@
 Blender 2.8 學習手冊
 ===
 
-- [關於本手冊 About]
+- [關於本手冊 About](about.md)
 - [開源軟體 OpenSource Softwares]
 - [Blender News]
 
